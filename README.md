@@ -1,4 +1,4 @@
-# Roblox Lua Injector Script
+# Roblox Lua Thonny Hub Scripts
 
 ## Description
 This repository contains a Lua script created for Roblox exploit injectors.  
